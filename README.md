@@ -12,3 +12,4 @@ Finally completed the project, and it documentation page
 
 I learn about moderation API today.
 It is used for flaging sexual, violence or spamming on platfrom.
+The wow part is it free
