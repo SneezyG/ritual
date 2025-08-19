@@ -8,4 +8,7 @@ Still on the project, taking longer than expected, but will be completed today
 
 Finally completed the project, and it documentation page
 
-I learn about moderation a
+
+
+I learn about moderation API today.
+It is used for flaging sexual, violence or spamming on platfrom.
