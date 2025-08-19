@@ -8,4 +8,4 @@ Still on the project, taking longer than expected, but will be completed today
 
 Finally completed the project, and it documentation page
 
-Todays ritual
+I learn about moderation a
